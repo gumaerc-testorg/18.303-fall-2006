@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 521c6da8-15b1-0900-0e9b-dbea9f146bfd
 resourcetype: Document
 title: probwave1.pdf
 uid: 0640039b-c39d-7d07-f012-6c86ae57113c

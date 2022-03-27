@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 521c6da8-15b1-0900-0e9b-dbea9f146bfd
 resourcetype: Document
 title: probhei2.pdf
 uid: a9c659c1-b2bf-7324-f1d4-9f67906e21d6

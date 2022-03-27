@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 521c6da8-15b1-0900-0e9b-dbea9f146bfd
 resourcetype: Document
 title: probhei4sol.pdf
 uid: aa15878f-607b-31fd-d3a1-3d21b3ced46e

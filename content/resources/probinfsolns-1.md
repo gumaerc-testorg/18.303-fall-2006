@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 521c6da8-15b1-0900-0e9b-dbea9f146bfd
 resourcetype: Document
 title: probinfsolns.pdf
 uid: 34cd3bd9-b329-1e7c-3e54-a0b99fdd80af

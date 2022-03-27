@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c1358d09-c369-a28c-7ce1-d1d9943e8254
 resourcetype: Document
 title: quasi.pdf
 uid: 085f9ac6-05e0-3e9c-7232-8a7239d11d10

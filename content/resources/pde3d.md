@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c1358d09-c369-a28c-7ce1-d1d9943e8254
 resourcetype: Document
 title: pde3d.pdf
 uid: 5faa7f7c-2171-9c38-fb70-1bc79ef4a29f

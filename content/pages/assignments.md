@@ -33,7 +33,7 @@ SOLUTIONS
 
 Problem Set 1 ([PDF]({{< baseurl >}}/resources/probhei))
 
-ps1.m ([M](/courses/mathematics/18-303-linear-partial-differential-equations-fall-2006/assignments/ps1.m))
+ps1.m ([M]({{< baseurl >}}/resources/ps1))
 
 
 {{< tdclose >}}
@@ -48,7 +48,7 @@ ps1.m ([M](/courses/mathematics/18-303-linear-partial-differential-equations-fal
 
 Problem Set 2 ([PDF]({{< baseurl >}}/resources/probheii-1))
 
-ps2.m ([M](/courses/mathematics/18-303-linear-partial-differential-equations-fall-2006/assignments/ps2.m))
+ps2.m ([M]({{< baseurl >}}/resources/ps2))
 
 
 {{< tdclose >}}
@@ -63,7 +63,7 @@ ps2.m ([M](/courses/mathematics/18-303-linear-partial-differential-equations-fal
 
 Problem Set 3 ([PDF]({{< baseurl >}}/resources/probwave1-1))
 
-ps3.m ([M](/courses/mathematics/18-303-linear-partial-differential-equations-fall-2006/assignments/ps3.m))
+ps3.m ([M]({{< baseurl >}}/resources/ps3))
 
 
 {{< tdclose >}}
@@ -78,7 +78,7 @@ ps3.m ([M](/courses/mathematics/18-303-linear-partial-differential-equations-fal
 
 Problem Set 4 ([PDF]({{< baseurl >}}/resources/probquasi-1))
 
-ps4.m ([M](/courses/mathematics/18-303-linear-partial-differential-equations-fall-2006/assignments/ps4.m))
+ps4.m ([M]({{< baseurl >}}/resources/ps4))
 
 
 {{< tdclose >}}
@@ -93,7 +93,7 @@ ps4.m ([M](/courses/mathematics/18-303-linear-partial-differential-equations-fal
 
 Problem Set 5 ([PDF]({{< baseurl >}}/resources/probpde3d-1))
 
-ps5.m ([M](/courses/mathematics/18-303-linear-partial-differential-equations-fall-2006/assignments/ps5.m))
+ps5.m ([M]({{< baseurl >}}/resources/ps5))
 
 
 {{< tdclose >}}
@@ -108,7 +108,7 @@ ps5.m ([M](/courses/mathematics/18-303-linear-partial-differential-equations-fal
 
 Problem Set 6 ([PDF]({{< baseurl >}}/resources/probinf-1))
 
-ps6.m ([M](/courses/mathematics/18-303-linear-partial-differential-equations-fall-2006/assignments/ps6.m))
+ps6.m ([M]({{< baseurl >}}/resources/ps6))
 
 
 {{< tdclose >}}

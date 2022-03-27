@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c1358d09-c369-a28c-7ce1-d1d9943e8254
 resourcetype: Document
 title: greensfn.pdf
 uid: 064b7e5d-9e32-96ab-2219-e44c53f7a1b5
