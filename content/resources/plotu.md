@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-303-linear-partial-differential-equations-fall-2006/33815ab130ea4dec516da924120e9a1b_plotu.m
+file: /courses/18-303-linear-partial-differential-equations-fall-2006/33815ab130ea4dec516da924120e9a1b_plotu.m
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes

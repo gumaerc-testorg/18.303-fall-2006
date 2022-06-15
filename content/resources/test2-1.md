@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-303-linear-partial-differential-equations-fall-2006/bf6e38335ac2dfb0eadc3392e0191b26_test2.m
+file: /courses/18-303-linear-partial-differential-equations-fall-2006/bf6e38335ac2dfb0eadc3392e0191b26_test2.m
 file_type: text/plain
 learning_resource_types:
 - Exams
