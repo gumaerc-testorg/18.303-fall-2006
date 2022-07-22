@@ -4,6 +4,7 @@ description: ''
 file: /courses/18-303-linear-partial-differential-equations-fall-2006/837f17ae88ce633254c2ddcb62fff8cd_ProbQuasisolns.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: ProbQuasisolns.pdf

@@ -6,6 +6,7 @@ file: /courses/18-303-linear-partial-differential-equations-fall-2006/ec5b7d8da2
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains an outline of material 1 expected to know for final and some extra practice problems for the final.
-

@@ -5,6 +5,7 @@ file: /courses/18-303-linear-partial-differential-equations-fall-2006/9968eed4a2
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection

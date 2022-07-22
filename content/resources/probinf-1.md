@@ -6,6 +6,7 @@ file: /courses/18-303-linear-partial-differential-equations-fall-2006/bc9b479d42
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Assigned homework problems based on infinite spatial domain prolems and the fourier transform.
-

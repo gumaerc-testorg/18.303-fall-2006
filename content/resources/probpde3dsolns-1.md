@@ -6,6 +6,7 @@ file: /courses/18-303-linear-partial-differential-equations-fall-2006/51d067cc59
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Solutions to the assigned homework problems based on 3D heat and wave equations.
-

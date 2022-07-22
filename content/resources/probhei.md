@@ -5,6 +5,7 @@ file: /courses/18-303-linear-partial-differential-equations-fall-2006/47bf5fb8f8
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 The resource contains problems for the 1-D heat equation.
-

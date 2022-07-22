@@ -5,6 +5,7 @@ file: /courses/18-303-linear-partial-differential-equations-fall-2006/ff36bf5af0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains solutions based on quasi-linear PDEs.
-
