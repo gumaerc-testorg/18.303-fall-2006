@@ -28,4 +28,3 @@ video_metadata:
   youtube_id: ''
 ---
 MATLAB file.
-
