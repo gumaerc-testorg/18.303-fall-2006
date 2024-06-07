@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains final exam questions.
 file: /courses/18-303-linear-partial-differential-equations-fall-2006/b0a5e4614c064ced8d3768ab0cd295cb_given.pdf
+file_size: 68480
 file_type: application/pdf
 learning_resource_types:
 - Exams

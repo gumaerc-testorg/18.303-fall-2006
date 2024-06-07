@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to the assigned homework problems.
 file: /courses/18-303-linear-partial-differential-equations-fall-2006/9a6fb0288b4666638309cfc09a14355c_probheisolns.pdf
+file_size: 1229787
 file_type: application/pdf
 learning_resource_types:
 - Assignments

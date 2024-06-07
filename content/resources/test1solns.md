@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to the test problems.
 file: /courses/18-303-linear-partial-differential-equations-fall-2006/f7a2bd70476a53349c61d68773c88f51_test1solns.pdf
+file_size: 103900
 file_type: application/pdf
 learning_resource_types:
 - Exams

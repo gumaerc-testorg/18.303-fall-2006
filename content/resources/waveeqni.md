@@ -4,6 +4,7 @@ description: 'This resource provides a summary of the following lecture topics: 
   derivation of 1-d wave equation, interpretation of normal modes of vibration and
   waves on a finite string.'
 file: /courses/18-303-linear-partial-differential-equations-fall-2006/22ead9d70b36836a68d13c7393e19649_waveeqni.pdf
+file_size: 418246
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
