@@ -3,6 +3,7 @@ content_type: resource
 description: MATLAB? file.
 draft: false
 file: /courses/18-303-linear-partial-differential-equations-fall-2006/cb37828e9d90b05d694774491baeaa28_ps5.m
+file_size: 1402
 file_type: text/plain
 image_metadata:
   caption: ''
