@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-303-linear-partial-differential-equations-fall-2006/0c0534eda6dd291c62f41a38d44c7e57_Probpde3dsolns.pdf
+file_size: 153493
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
