@@ -2,7 +2,7 @@
 content_type: resource
 description: Solutions to the assigned homework problems based on 3D heat and wave
   equations.
-file: /courses/18-303-linear-partial-differential-equations-fall-2006/51d067cc59d0bc0639235ed2b8a502eb_probpde3dsolns.pdf
+file: /ol-ocw-studio-app/courses/18-303-linear-partial-differential-equations-fall-2006/51d067cc59d0bc0639235ed2b8a502eb_probpde3dsolns.pdf
 file_size: 715436
 file_type: application/pdf
 learning_resource_types:
