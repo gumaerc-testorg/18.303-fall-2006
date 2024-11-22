@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource provides a summary of the following lecture topics: fourier
   transform, convolution theorem and solution to the heat equation.'
-file: /courses/18-303-linear-partial-differential-equations-fall-2006/ffeff4a86a9d709cc6c394e99124c9bf_fourtran.pdf
+file: /ol-ocw-studio-app/courses/18-303-linear-partial-differential-equations-fall-2006/ffeff4a86a9d709cc6c394e99124c9bf_fourtran.pdf
 file_size: 253929
 file_type: application/pdf
 learning_resource_types:
