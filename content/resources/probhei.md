@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The resource contains problems for the 1-D heat equation.
-file: /ol-ocw-studio-app/courses/18-303-linear-partial-differential-equations-fall-2006/47bf5fb8f893ebee92dcab39ed65b81b_probhei.pdf
+file: /courses/18-303-linear-partial-differential-equations-fall-2006/47bf5fb8f893ebee92dcab39ed65b81b_probhei.pdf
 file_size: 90847
 file_type: application/pdf
 learning_resource_types:
