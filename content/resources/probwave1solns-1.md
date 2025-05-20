@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions to the assigned homework problems based
   on 1-D wave equation.
-file: /ol-ocw-studio-app/courses/18-303-linear-partial-differential-equations-fall-2006/fe84fae376caa45e920e58f5e57a5900_probwave1solns.pdf
+file: /courses/18-303-linear-partial-differential-equations-fall-2006/fe84fae376caa45e920e58f5e57a5900_probwave1solns.pdf
 file_size: 241262
 file_type: application/pdf
 learning_resource_types:

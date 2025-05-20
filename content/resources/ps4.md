@@ -2,7 +2,7 @@
 content_type: resource
 description: MATLAB? file.
 draft: false
-file: /ol-ocw-studio-app/courses/18-303-linear-partial-differential-equations-fall-2006/42f8b8e6600a30dec1492ce0bcc811dd_ps4.m
+file: /courses/18-303-linear-partial-differential-equations-fall-2006/42f8b8e6600a30dec1492ce0bcc811dd_ps4.m
 file_size: 4431
 file_type: text/plain
 image_metadata:

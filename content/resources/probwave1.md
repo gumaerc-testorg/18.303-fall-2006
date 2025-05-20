@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-303-linear-partial-differential-equations-fall-2006/f672c80e9c8932350eef3a0614f0693e_ProbWave1.pdf
+file: /courses/18-303-linear-partial-differential-equations-fall-2006/f672c80e9c8932350eef3a0614f0693e_ProbWave1.pdf
 file_size: 72778
 file_type: application/pdf
 learning_resource_types: []
