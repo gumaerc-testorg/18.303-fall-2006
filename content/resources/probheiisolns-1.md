@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to the assigned homework problems.
-file: /ol-ocw-studio-app/courses/18-303-linear-partial-differential-equations-fall-2006/6bd9accec72c7fef11ec44d03895d600_probheiisolns.pdf
+file: /courses/18-303-linear-partial-differential-equations-fall-2006/6bd9accec72c7fef11ec44d03895d600_probheiisolns.pdf
 file_size: 228671
 file_type: application/pdf
 learning_resource_types:

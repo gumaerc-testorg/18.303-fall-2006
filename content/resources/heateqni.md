@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource provides a summary of the following lecture topics: physical
   derivation of 1-d heat equation, space of variables, uniform convergence, linearity,
   homogeneity, superposition, review of fourier series and heat sources.'
-file: /ol-ocw-studio-app/courses/18-303-linear-partial-differential-equations-fall-2006/d11b374a85c3fde55ec971fe587f8a50_heateqni.pdf
+file: /courses/18-303-linear-partial-differential-equations-fall-2006/d11b374a85c3fde55ec971fe587f8a50_heateqni.pdf
 file_size: 734739
 file_type: application/pdf
 learning_resource_types:

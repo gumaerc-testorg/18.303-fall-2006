@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains some review problems based on heat.
-file: /ol-ocw-studio-app/courses/18-303-linear-partial-differential-equations-fall-2006/47cbb9af75d31d9bd80710742153db00_preptest1.pdf
+file: /courses/18-303-linear-partial-differential-equations-fall-2006/47cbb9af75d31d9bd80710742153db00_preptest1.pdf
 file_size: 66362
 file_type: application/pdf
 learning_resource_types:

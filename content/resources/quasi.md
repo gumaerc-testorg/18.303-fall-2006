@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource provides a summary of the following lecture topic: the
   method of characteristics applied to quasi-linear PDEs.'
-file: /ol-ocw-studio-app/courses/18-303-linear-partial-differential-equations-fall-2006/085f9ac605e03e9c72328a7239d11d10_quasi.pdf
+file: /courses/18-303-linear-partial-differential-equations-fall-2006/085f9ac605e03e9c72328a7239d11d10_quasi.pdf
 file_size: 168203
 file_type: application/pdf
 learning_resource_types:

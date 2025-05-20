@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-303-linear-partial-differential-equations-fall-2006/940a83b332e963d5eaeea1d991f3c00f_Probinf.pdf
+file: /courses/18-303-linear-partial-differential-equations-fall-2006/940a83b332e963d5eaeea1d991f3c00f_Probinf.pdf
 file_size: 68720
 file_type: application/pdf
 learning_resource_types: []
