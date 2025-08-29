@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource provides a summary of the following lecture topics: the
   delta function, solution to laplace and poisson equation and finding the green''s
   function.'
-file: /courses/18-303-linear-partial-differential-equations-fall-2006/064b7e5d9e3296ab2219e44c53f7a1b5_greensfn.pdf
+file: /ol-ocw-studio-app/courses/18-303-linear-partial-differential-equations-fall-2006/064b7e5d9e3296ab2219e44c53f7a1b5_greensfn.pdf
 file_size: 780249
 file_type: application/pdf
 learning_resource_types:
