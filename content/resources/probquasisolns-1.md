@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions based on quasi-linear PDEs.
-file: /courses/18-303-linear-partial-differential-equations-fall-2006/ff36bf5af0d4dcefd6f463899bd35675_probquasisolns.pdf
+file: /ol-ocw-studio-app/courses/18-303-linear-partial-differential-equations-fall-2006/ff36bf5af0d4dcefd6f463899bd35675_probquasisolns.pdf
 file_size: 147897
 file_type: application/pdf
 learning_resource_types:

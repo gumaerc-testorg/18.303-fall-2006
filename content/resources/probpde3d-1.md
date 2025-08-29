@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problems for 3D heat and wave equations.
-file: /courses/18-303-linear-partial-differential-equations-fall-2006/ff5ab7520a686867b73266ff182afbbd_probpde3d.pdf
+file: /ol-ocw-studio-app/courses/18-303-linear-partial-differential-equations-fall-2006/ff5ab7520a686867b73266ff182afbbd_probpde3d.pdf
 file_size: 58761
 file_type: application/pdf
 learning_resource_types:
